@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "drillImageName": "drill1_image",
+    "title": "Fundamental Drill",
+    "length": "5 mins",
+    "mentorImageName": "mentor1_image",
+    "mentorName": "John Doe",
+    "mentorDescription": "An experienced coach specializing in fundamental techniques.",
+    "videoURL": "https://example.com/videos/fundamental_drill.mp4",
+    "transcript": "In this drill, we focus on the basic movements and techniques. Start by warming up properly, then follow the step-by-step instructions provided in the video. Remember to practice slowly at first, and gradually increase your speed."
+  },
+  {
+    "id": "2",
+    "drillImageName": "drill2_image",
+    "title": "Advanced Drill",
+    "length": "8 mins",
+    "mentorImageName": "mentor2_image",
+    "mentorName": "Jane Smith",
+    "mentorDescription": "Expert in advanced techniques and strategies.",
+    "videoURL": "https://example.com/videos/advanced_drill.mp4",
+    "transcript": "This advanced drill challenges your coordination and strength. Begin with a brief warm-up, then carefully follow the video instructions. The mentor explains each move in detail, so pause the video as needed to perfect each step."
+  },
+  {
+    "id": "3",
+    "drillImageName": "drill3_image",
+    "title": "Speed Drill",
+    "length": "3 mins",
+    "mentorImageName": "mentor3_image",
+    "mentorName": "Emily Johnson",
+    "mentorDescription": "Focused on speed and agility drills.",
+    "videoURL": "https://example.com/videos/speed_drill.mp4",
+    "transcript": "The speed drill is all about quick reactions and agility. Follow along with the mentor's demonstration in the video. This drill is designed to boost your reaction time and help you move faster on the field."
+  }
+]
